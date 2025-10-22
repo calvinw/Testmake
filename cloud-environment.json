@@ -1,0 +1,11 @@
+{
+  "name": "Nineball",
+  "networkAccess": {
+    "type": "custom",
+    "allowedDomains": [
+      "example.com",
+      "anthropic.com"
+    ]
+  },
+  "description": "Cloud environment configuration for Nineball. This restricts network access to only trusted domains for enhanced security."
+}
